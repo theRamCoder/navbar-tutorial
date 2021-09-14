@@ -1,0 +1,22 @@
+linking font awesome   :
+   
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+
+Linking google fonts:
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+
+
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap"
+      rel="stylesheet"
+    />
+
+
+
+    color to be used:
+
+    #58A0BD
